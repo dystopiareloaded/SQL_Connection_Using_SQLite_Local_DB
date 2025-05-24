@@ -1,0 +1,1 @@
+- No cloud database required – works **offline** using local `.db` file.
